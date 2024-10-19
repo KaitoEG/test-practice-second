@@ -1,0 +1,9 @@
+.buttons button{
+    padding: 12px;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

@@ -1,0 +1,12 @@
+.contenedor{
+    background-color: white;
+    margin: 20px 0;
+    position: relative;
+    padding-top: 40px;
+}
+
+.avatar{
+    position: absolute;
+    top: -44px;
+    right: 120px;
+}
